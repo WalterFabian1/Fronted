@@ -1,2 +1,0 @@
-# Fronted
-Curriculum Vitae
